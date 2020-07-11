@@ -103,6 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-
 # Folder not used
 __MACOSX
